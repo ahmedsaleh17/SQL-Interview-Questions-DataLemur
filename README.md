@@ -31,9 +31,8 @@ This repository serves as a personal learning and reference collection for SQL i
 
 | ID | DataLemur Question Link | Difficulty | My Solution |
 |:--:|:-----------------------:|:---------: |:-----------:|
-| 01 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)| Easy | [Solution](Solutions/Histogram-of-tweets.sql) |
-| 02 | [Question Name]()| Easy | [Solution]() |
-| 03 | [Question Name]()| Easy | [Solution]() |
+| 01 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets)| Easy | [Solution](./Solutions/Histogram-of-tweets.sql) |
+| 02 | [Data Science Skills](https://datalemur.com/questions/matching-skills)| Easy | [Solution](./Solutions/DataScience-skill.sql) |
 
 
 
