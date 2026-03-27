@@ -41,7 +41,7 @@ This repository serves as a personal learning and reference collection for SQL i
 | 08 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings)| Easy | [Solution](./Solutions/duplicate-job-listings.sql) |
 | 09 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades)| Easy | [Solution](./Solutions/cities-with-completed-trades.sql) |
 | 10 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings)| Easy | [Solution](./Solutions/average-review-ratings.sql) |
-| 11 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees)| Easy | [Solution](./Solutions/average-review-ratings.sql) |
+| 11 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees)| Easy | [Solution](./Solutions/well-paid-employees.sql) |
 
 
 
