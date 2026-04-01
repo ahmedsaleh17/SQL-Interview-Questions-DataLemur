@@ -1,9 +1,5 @@
 # SQL-Interview-Questions-DataLemur
 
-A comprehensive collection of SQL interview questions from DataLemur with my solutions.
-![DataLemur](Resources/image.png)
-## About This Repository
-
 This repository serves as a personal learning and reference collection for SQL interview preparation using [DataLemur](https://datalemur.com/), a popular platform for practicing data science and SQL interview questions.
 
 ## Purpose
