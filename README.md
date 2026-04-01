@@ -43,6 +43,7 @@ This repository serves as a personal learning and reference collection for SQL i
 | 10 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings)| Easy | [Solution](./Solutions/average-review-ratings.sql) |
 | 11 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees)| Easy | [Solution](./Solutions/well-paid-employees.sql) |
 | 12 | [Final Account Balance](https://datalemur.com/questions/final-account-balance)| Easy | [Solution](./Solutions/final-account-balance.sql) |
+| 13 | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate)| Easy | [Solution](./Solutions/click-through-rate.sql) |
 
 
 
