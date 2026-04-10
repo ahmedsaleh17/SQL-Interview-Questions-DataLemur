@@ -42,7 +42,8 @@ This repository serves as a personal learning and reference collection for SQL i
 | 13 | [App Click-through Rate (CTR)](https://datalemur.com/questions/click-through-rate)| Easy | [Solution](./Solutions/click-through-rate.sql) |
 | 14 | [IBM db2 Product Analytics](https://datalemur.com/questions/sql-ibm-db2-product-analytics)| Easy | [Solution](./Solutions/ibm-db2-product-analysis.sql) |
 | 15 | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference)| Easy | [Solution](./Solutions/cards_issued_difference.sql) |
-| 15 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)| Easy | [Solution](./Solutions/compressed_mean.sql) |
+| 16 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)| Easy | [Solution](./Solutions/compressed_mean.sql) |
+| 17 | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs)| Easy | [Solution](./Solutions/Pharmacy-analytics-top-profitable-drugs.sql) |
 
 
 
