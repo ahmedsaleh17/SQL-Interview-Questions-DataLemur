@@ -44,7 +44,7 @@ This repository serves as a personal learning and reference collection for SQL i
 | 15 | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference)| Easy | [Solution](./Solutions/cards_issued_difference.sql) |
 | 16 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean)| Easy | [Solution](./Solutions/compressed_mean.sql) |
 | 17 | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs)| Easy | [Solution](./Solutions/Pharmacy-analytics-top-profitable-drugs.sql) |
-
+| 18 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs)| Easy | [Solution](./Solutions/Pharmacy-analytics-top-profitable-drugs.sql) |
 
 
 ## Progress
