@@ -78,7 +78,7 @@ See the [Learn-SQL README](./Learn-SQL/README.md#-database-schema) for the compl
 - **Interview Platform**: [DataLemur](https://datalemur.com/)
 - **File Format**: `.sql` files with detailed comments and explanations
 
-## Questions & Solutions
+## Questions & Solutions - time to practice :)
 
 | ID | DataLemur Question Link | Difficulty | My Solution |
 |:--:|:-----------------------:|:---------: |:-----------:|
