@@ -104,7 +104,8 @@ See the [Learn-SQL README](./Learn-SQL/README.md#-database-schema) for the compl
 | 20 | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers)| Easy | [Solution](./Solutions/frequent-callers.sql) |
 | 21 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction)| Medium | [Solution](./Solutions/third-transaction.sql) |
 | 22 | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary)| Medium | [Solution](./Solutions/second-highest-salary.sql) |
-| 32 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)| Medium | [Solution](./Solutions/sending_vs_opening_snaps.sql)
+| 23 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)| Medium | [Solution](./Solutions/sending_vs_opening_snaps.sql) |
+| 24 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets)| Medium | [Solution](./Solutions/tweets_moving_avg.sql) |
 
 
 ## Progress
