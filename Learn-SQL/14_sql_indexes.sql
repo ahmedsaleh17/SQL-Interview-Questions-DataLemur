@@ -212,7 +212,7 @@ FROM testing.FactInternetSales_CS
 
 -----------------------------------------
 USE SalesDB;
--- Unique index 
+-- Unique index   --> enforce uniqueness at column 
 SELECT 
     *
 FROM Sales.Products
@@ -234,4 +234,39 @@ with unique index 'IDX_Products_unique'. The duplicate key value is (Tire).
 
 
 ---------------------------------------------------------
---  
+--  Filtered Index 
+
+/* 
+An index that includes only rows meeting the specified conditions 
+why used? 
+  - Target optimization 
+      ex : if your analysis only focus on active users and we don't care on non active users 
+           we us this type of index
+  - Reduce storage 
+      How? Because the B structure is gonna be smaller that means that means we are gonna need less storage 
+      in order to store the index 
+
+Syntax: 
+
+CREATE [UNIQUE] [NONCLUSTERED] INDEX Index_name
+ON table_name (col1, col2)
+WHERE [CONDITION]
+
+
+Rules: 
+   - You cannot create a filtered index on a clustered index 
+   - You cannot create a filtered index on a columnstore index 
+*/ 
+
+
+-- Let's assume we only focus on customers from Germany 
+SELECT 
+    *
+FROM Sales.Customers
+WHERE Country = 'GERMANY' 
+
+-- FILTERED NON CLUSTERED INDEX ON GERMANY COUNTRY 
+CREATE INDEX Idx_Customer_Country
+ON Sales.Customers (Country)
+WHERE Country = 'Germany'
+
