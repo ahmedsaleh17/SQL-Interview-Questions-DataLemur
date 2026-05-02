@@ -106,6 +106,7 @@ See the [Learn-SQL README](./Learn-SQL/README.md#-database-schema) for the compl
 | 22 | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary)| Medium | [Solution](./Solutions/second-highest-salary.sql) |
 | 23 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps)| Medium | [Solution](./Solutions/sending_vs_opening_snaps.sql) |
 | 24 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets)| Medium | [Solution](./Solutions/tweets_moving_avg.sql) |
+| 25 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing)| Medium | [Solution](./Solutions/highest_grossing_items.sql) |
 
 
 ## Progress
