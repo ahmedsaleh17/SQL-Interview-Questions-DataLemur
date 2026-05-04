@@ -73,7 +73,7 @@ WHERE Country = 'USA' AND Score > 500
 CREATE INDEX idx_DBCustomers_CountryScore 
 ON Sales.DBCustomers(Country, Score) 
 
--- Rule : the columns of index order must match the order in yyour query
+-- Rule : the columns of index order must match the order in your query
 -- THE ORDER OF COLUMNS IN QUERY MUST BE THE SAME IN THE NON CLUSTERED INDEX
 -- The Order is very critical
 
@@ -269,4 +269,30 @@ WHERE Country = 'GERMANY'
 CREATE INDEX Idx_Customer_Country
 ON Sales.Customers (Country)
 WHERE Country = 'Germany'
+
+
+
+/*  
+-- WHEN TO USE EACH INDEX ? ---
+    
+    HEAP --> for staging tables (fast inserts)
+    
+    ROWSTORE --> Online Transaction Processing (OLTP)
+    |
+    | - CLUSTERED INDEX --> for PKs 
+    |   (optimize reading performance when filtering data with PKs)
+    |
+    | - NONCLUSTERED INDEX --> for non PK columns 
+        (optimize queries which use another columns to joining or filtering data so you can use with FKS or any other column based on situation ) 
+
+
+    COLUMNSTORE --> Online Analytical Processing (OLAP)
+    | - for complex analytical queries 
+
+
+    UNIQUE INDEX   --> Enforce uniqueness, improve query speed 
+    FILTERED INDEX --> Target subset of data, reduce storage size of index 
+*/
+
+
 
