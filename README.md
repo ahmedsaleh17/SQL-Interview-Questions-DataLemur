@@ -110,6 +110,7 @@ See the [Learn-SQL README](./Learn-SQL/README.md#-database-schema) for the compl
 | 26 | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries)| Medium | [Solution](./Solutions/top_three_salaries.sql) |
 | 27 | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate)| Medium | [Solution](./Solutions/signup_activation_rate.sql) |
 | 28 | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history)| Medium | [Solution](./Solutions/spotify_streaming_hist.sql) |
+| 29 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer)| Medium | [Solution](./Solutions/supercloud_customers.sql) |
 
 
 ## Progress
